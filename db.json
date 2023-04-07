@@ -6,8 +6,8 @@
           "model": "XC40",
           "price": 20000,
           "fuelType": "Diesel",
-          "colour": "Grey"
-          "mileage": 55000
+          "colour": "Grey",
+          "mileage": 55000,
           "manual": true
         },
         {
@@ -16,8 +16,8 @@
           "model": "Series 1",
           "price": 15000,
           "fuelType": "Petrol",
-          "colour": "White"
-          "mileage": 85000
+          "colour": "White",
+          "mileage": 85000,
           "manual": false
         }    
   ]
